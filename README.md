@@ -17,8 +17,11 @@ Run storybook
 npm run storybook
 ```
 Url app deployed: https://front-callenge-i4bw7o24jq-uc.a.run.app/
+
 Default Home url: http://localhost:3000/
+
 Default storybook url: http://localhost:6006/
+
 ## Packages used
 
 - React
