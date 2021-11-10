@@ -1,1 +1,4 @@
 runtime: nodejs14
+network:
+  forwarded_ports:
+    - 3000/tcp
